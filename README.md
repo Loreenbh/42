@@ -60,3 +60,4 @@ make logs
 # Stop and clean containers
 make down
 ```
+Access WordPress in browser at `http://<your-host>:80`
