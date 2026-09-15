@@ -34,7 +34,7 @@ git clone https://github.com/Loreenbh/webserv.git
 cd webserv
 make
 ```
-### 04 — Run the server
+### Run the server
 ```bash
 ./webserv configs/default.conf
 ```
