@@ -2,7 +2,7 @@
 
 <img src="./images/darkly-planche.png" width="100%" />
 <br><br>
-42 Paris · Darkly
+4 2 P a r i s · D a r k l y
 
 </div>
 
