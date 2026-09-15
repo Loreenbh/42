@@ -1,11 +1,10 @@
 <div align="center">
 
 <img src="./images/minishell-planche.png" width="100%" />
-
+<br><br>
 42 Paris · Minishell
 
-Implementation of a simple shell in C as part of the 42 curriculum.<br>
-The project focuses on <strong>process management, parsing, and Unix signals.</strong>
+</div>
 
 </div>
 
