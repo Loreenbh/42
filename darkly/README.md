@@ -1,3 +1,10 @@
+<div align="center">
+
+<img src="./images/darkly-planche.png" width="100%" />
+<br><br>
+42 Paris · Darkly
+
+</div>
 
 ## 01 — Project Overview
 Darkly is a web application intentionally designed with 14 different vulnerabilities.
