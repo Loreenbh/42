@@ -1,9 +1,15 @@
-# Minishell (42) – Custom Shell Implementation
+<div align="center">
 
-Implementation of a simple shell in C as part of the 42 curriculum.  
-The project focuses on **process management, parsing, and Unix signals**.
+<img src="./images/minishell-planche.png" width="100%" />
 
-## Skills Demonstrated
+42 Paris · Minishell
+
+Implementation of a simple shell in C as part of the 42 curriculum.<br>
+The project focuses on <strong>process management, parsing, and Unix signals.</strong>
+
+</div>
+
+## 01 — Skills Demonstrated
 
 - Linux command line  
 - Process creation and management (`fork`, `execve`)  
@@ -11,7 +17,7 @@ The project focuses on **process management, parsing, and Unix signals**.
 - Parsing and handling of command-line inputs  
 - Redirections (`>`, `<`, `>>`) and pipes (`|`)  
 
-## Project Overview
+## 02 — Project Overview
 
 Minishell is a simplified version of a Unix shell that supports:
 
@@ -21,7 +27,7 @@ Minishell is a simplified version of a Unix shell that supports:
 4. Pipes (`|`) to chain commands  
 5. Signal handling for proper termination and interruption  
 
-## Getting Started
+## 03 — Getting Started
 
 ### Prerequisites
 - Linux / MacOS
