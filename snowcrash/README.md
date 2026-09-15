@@ -1,12 +1,16 @@
-# SnowCrash – 42
+<div align="center">
 
-Collection of write-ups for the SnowCrash CTF challenges, level by level, as part of self-learning / security practice.
+<img src="./images/snowcrash-planche.png" width="100%" />
+<br><br>
+42 Paris · Snowcrash
 
-## Project Overview
+</div>
+
+## 01 — Project Overview
 SnowCrash is a series of CTF-style security challenges focused on Linux systems, binary exploitation, and privilege escalation.  
 The goal of each level is to retrieve the flag by analyzing files, processes, and services, while learning security techniques.
 
-## Skills Developed
+## 02 — Skills Developed
 - Linux filesystem exploration and file permissions analysis
 - Basic binary analysis and understanding of stripped executables
 - Use of debugging tools (GDB) and reverse engineering techniques
@@ -14,7 +18,7 @@ The goal of each level is to retrieve the flag by analyzing files, processes, an
 - Privilege escalation and automated process analysis
 - Documentation of technical solutions and methodology
 
-## Levels Covered
+## 03 — Levels Covered
 - Level00 – Basic file enumeration and Caesar cipher decoding
 - Level01 - Extracting a password hash and cracking it with John the Ripper
 - Level02 - Telnet credential recovery via packet capture analysis
@@ -38,9 +42,9 @@ Each write-up contains:
 - Remediation suggestions
 
 
-## Resources / Proofs
+## 04 — Resources / Proofs
 - Screenshots and outputs for each level are stored in the `images/` folder.
 
-## Source Code
+## 05 — Source Code
 - This repository focuses on write-ups and documentation.
 - No binaries or sensitive files are included, only proofs, notes, and scripts.
