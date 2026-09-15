@@ -10,13 +10,13 @@
 
 ## 01 — SYSTEMS
 
-### Minishell [→](https://github.com/loreenbh/42/minishell)
+### Minishell [→](https://github.com/Loreenbh/42/tree/main/minishell)
 
 **C · Shell · Processes**
 
 Implementation of a Unix shell from scratch.
 
-### Webserv [→](https://github.com/loreenbh/42/webserv)
+### Webserv [→](https://github.com/Loreenbh/42/tree/main/webserv)
 
 **C++ · HTTP · Networking**
 
@@ -24,7 +24,7 @@ Implementation of an HTTP server using raw sockets.
 
 ## 02 — INFRASTRUCTURE
 
-### Inception [→](https://github.com/loreenbh/42/inception)
+### Inception [→](https://github.com/Loreenbh/42/tree/main/inception)
 
 **Docker · Networking · Infrastructure**
 
@@ -32,13 +32,13 @@ Deployment of a multi-container web stack.
 
 ## 03 — SECURITY
 
-### Darkly [→](https://github.com/loreenbh/42/darkly)
+### Darkly [→](https://github.com/Loreenbh/42/tree/main/darkly)
 
 **Web Security · Vulnerabilities**
 
 Introduction to common web vulnerabilities and security fundamentals.
 
-### SnowCrash [→](https://github.com/loreenbh/42/snowcrash)
+### SnowCrash [→](https://github.com/Loreenbh/42/tree/main/snowcrash)
 
 **Linux · Security · Exploitation**
 
