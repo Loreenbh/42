@@ -4,11 +4,11 @@
 
 <br><br>
 
-4 2 P A R I S · P R O J E C T S
+4 2 P a r i s · P r o j e c t s
 
 </div>
 
-## 01 — S Y S T E M S
+## 0 1 — S Y S T E M S
 
 ### Minishell [→](https://github.com/Loreenbh/42/tree/main/minishell)
 
@@ -22,7 +22,7 @@ Implementation of a Unix shell from scratch.
 
 Implementation of an HTTP server using raw sockets.
 
-## 02 — I N F R A S T R U C T U R E
+## 0 2 — I N F R A S T R U C T U R E
 
 ### Inception [→](https://github.com/Loreenbh/42/tree/main/inception)
 
@@ -30,7 +30,7 @@ Implementation of an HTTP server using raw sockets.
 
 Deployment of a multi-container web stack.
 
-## 03 — S E C U R I T Y
+## 0 3 — S E C U R I T Y
 
 ### Darkly [→](https://github.com/Loreenbh/42/tree/main/darkly)
 
