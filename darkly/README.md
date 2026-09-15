@@ -1,18 +1,16 @@
-# Darkly – 42
-Collection of write-ups for the Darkly web challenges, each describing a distinct vulnerability on the site, as part of self-learning / web security practice.
 
-## Project Overview
+## 01 — Project Overview
 Darkly is a web application intentionally designed with 14 different vulnerabilities.
 The goal is to identify, analyze, and exploit each flaw to retrieve the associated flag, while learning practical web security techniques.
 
-## Skills Developed
+## 02 — Skills Developed
 - Web application vulnerability analysis (SQL Injection, XSS, command injection, etc.)
 - Understanding HTTP requests, sessions, and cookies
 - File inclusion and server-side logic exploitation
 - Browser debugging and request manipulation (DevTools, curl, Burp Suite)
 - Documenting technical solutions and attack methodology
 
-## Vulnerabilities Covered
+## 03 — Vulnerabilities Covered
 1. **Cookie Authentication Bypass** – Manipulating cookies to gain admin access
 2. **File Upload Bypass** – Uploading malicious files disguised as images
 3. **Header-Based Access Bypass** – Modifying HTTP headers to bypass restrictions
