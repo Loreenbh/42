@@ -8,7 +8,7 @@
 
 </div>
 
-## 01 — SYSTEMS
+## 01 — S Y S T E M S
 
 ### Minishell [→](https://github.com/Loreenbh/42/tree/main/minishell)
 
@@ -22,7 +22,7 @@ Implementation of a Unix shell from scratch.
 
 Implementation of an HTTP server using raw sockets.
 
-## 02 — INFRASTRUCTURE
+## 02 — I N F R A S T R U C T U R E
 
 ### Inception [→](https://github.com/Loreenbh/42/tree/main/inception)
 
@@ -30,7 +30,7 @@ Implementation of an HTTP server using raw sockets.
 
 Deployment of a multi-container web stack.
 
-## 03 — SECURITY
+## 03 — S E C U R I T Y
 
 ### Darkly [→](https://github.com/Loreenbh/42/tree/main/darkly)
 
