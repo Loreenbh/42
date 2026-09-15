@@ -1,9 +1,12 @@
-# Webserv (42) – Custom HTTP Web Server
+<div align="center">
 
-Implementation of a simplified HTTP web server in C as part of the 42 curriculum.  
-The project focuses on **network programming, HTTP protocol handling, and server-side logic**.
+<img src="./images/webserv-planche.png" width="100%" />
+<br><br>
+42 Paris · Webserv
 
-## Skills Demonstrated
+</div>
+
+## 01 — Skills Demonstrated
 
 - TCP/IP networking and socket programming
 - HTTP request parsing and response handling
@@ -12,7 +15,7 @@ The project focuses on **network programming, HTTP protocol handling, and server
 - Error handling (400, 404, 500 HTTP errors)
 - Basic server-side scripting support (CGI)
 
-## Project Overview
+## 02 — Project Overview
 
 Webserv is a custom HTTP server that supports:
 
@@ -23,7 +26,7 @@ Webserv is a custom HTTP server that supports:
 5. Executing CGI scripts for dynamic content
 6. Logging requests (optional)
 
-## Getting Started
+## 03 — Getting Started
 
 ### Clone & Build
 ```bash
@@ -31,7 +34,7 @@ git clone https://github.com/Loreenbh/webserv.git
 cd webserv
 make
 ```
-### Run the server
+### 04 — Run the server
 ```bash
 ./webserv configs/default.conf
 ```
