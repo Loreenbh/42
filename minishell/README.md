@@ -6,8 +6,6 @@
 
 </div>
 
-</div>
-
 ## 01 — Skills Demonstrated
 
 - Linux command line  
