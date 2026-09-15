@@ -6,18 +6,18 @@
 
 </div>
 
-## 01 — Project Overview
+## 01 — P R O J E C T
 Darkly is a web application intentionally designed with 14 different vulnerabilities.
 The goal is to identify, analyze, and exploit each flaw to retrieve the associated flag, while learning practical web security techniques.
 
-## 02 — Skills Developed
+## 02 — S K I L L S
 - Web application vulnerability analysis (SQL Injection, XSS, command injection, etc.)
 - Understanding HTTP requests, sessions, and cookies
 - File inclusion and server-side logic exploitation
 - Browser debugging and request manipulation (DevTools, curl, Burp Suite)
 - Documenting technical solutions and attack methodology
 
-## 03 — Vulnerabilities Covered
+## 03 — V U L N E R A B I L I T I E S
 1. **Cookie Authentication Bypass** – Manipulating cookies to gain admin access
 2. **File Upload Bypass** – Uploading malicious files disguised as images
 3. **Header-Based Access Bypass** – Modifying HTTP headers to bypass restrictions
@@ -40,10 +40,10 @@ Each write-up contains:
 - Screenshots / proofs of successful exploitation
 - Remediation suggestions
 
-## 04 — Resources / Proofs
+## 04 — R E S O U R C E S
 - Screenshots and outputs for each vulnerability are stored in the `images/` folder.
 - Scripts for payload generation, decoding, or automation can be found in the `resources/` folder.
 
-## 05 — Source Code
+## 05 — S O U R C E
 This repository contains write-ups and documentation only.
 No live website, binaries, or sensitive files are included—only proofs, notes, and scripts.
