@@ -4,7 +4,7 @@
 
 <br><br>
 
-42 Paris · Selected projects
+42 P A R I S · Selected projects
 
 </div>
 
