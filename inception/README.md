@@ -2,7 +2,7 @@
 
 <img src="./images/inception-planche.png" width="100%" />
 <br><br>
-42 Paris · Inception
+4 2 P a r i s · I n c e p t i o n
 
 </div>
 
