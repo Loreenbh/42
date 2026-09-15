@@ -2,20 +2,11 @@
 
 <img src="./images/webserv-planche.png" width="100%" />
 <br><br>
-42 Paris · Webserv
+4 2 P a r i s · W e b s e r v
 
 </div>
 
-## 01 — Skills Demonstrated
-
-- TCP/IP networking and socket programming
-- HTTP request parsing and response handling
-- Multi-client handling with `poll()`
-- File serving and MIME types
-- Error handling (400, 404, 500 HTTP errors)
-- Basic server-side scripting support (CGI)
-
-## 02 — Project Overview
+## 0 1 — P R O J E C T 
 
 Webserv is a custom HTTP server that supports:
 
@@ -25,8 +16,18 @@ Webserv is a custom HTTP server that supports:
 4. Returning proper HTTP status codes for errors
 5. Executing CGI scripts for dynamic content
 6. Logging requests (optional)
+   
+## 0 2 — S K I L L S
 
-## 03 — Getting Started
+- TCP/IP networking and socket programming
+- HTTP request parsing and response handling
+- Multi-client handling with `poll()`
+- File serving and MIME types
+- Error handling (400, 404, 500 HTTP errors)
+- Basic server-side scripting support (CGI)
+
+
+## 0 3 — S E T U P 
 
 ### Clone & Build
 ```bash
