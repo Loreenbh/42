@@ -10,13 +10,13 @@
 
 ## 01 — SYSTEMS
 
-### [Minishell](TON-LIEN-MINISHELL)
+### Minishell [→](./42/minishell)
 
 **C · Shell · Processes**
 
 Implementation of a Unix shell from scratch.
 
-### [Webserv](TON-LIEN-WEBSERV)
+### Webserv [→](./42/webserv)
 
 **C++ · HTTP · Networking**
 
@@ -24,7 +24,7 @@ Implementation of an HTTP server using raw sockets.
 
 ## 02 — INFRASTRUCTURE
 
-### [Inception](TON-LIEN-INCEPTION)
+### Inception [→](./42/inception)
 
 **Docker · Networking · Infrastructure**
 
@@ -32,13 +32,13 @@ Deployment of a multi-container web stack.
 
 ## 03 — SECURITY
 
-### [Darkly](TON-LIEN-DARKLY)
+### Darkly [→](./42/darkly)
 
 **Web Security · Vulnerabilities**
 
 Introduction to common web vulnerabilities and security fundamentals.
 
-### [SnowCrash](TON-LIEN-SNOWCRASH)
+### SnowCrash [→](./42/snowcrash)
 
 **Linux · Security · Exploitation**
 
