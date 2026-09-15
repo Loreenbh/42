@@ -1,9 +1,7 @@
 <div align="center">
 
 <img src="./images/inception-planche.png" width="100%" />
-
 <br><br>
-
 42 Paris · Inception
 
 </div>
