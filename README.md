@@ -4,7 +4,7 @@
 
 <br><br>
 
-42 P A R I S · Selected projects
+4 2 P A R I S · P R O J E C T S
 
 </div>
 
