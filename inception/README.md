@@ -6,17 +6,7 @@
 
 </div>
 
-## 01 — Skills Demonstrated
-
-- Docker and Docker Compose  
-- Multi-container orchestration  
-- Nginx configuration and reverse proxy  
-- MariaDB database setup and initialization  
-- WordPress deployment and configuration  
-- Shell scripting for automation and initialization  
-- Linux networking fundamentals  
-
-## 02 — Project Overview
+## 0 1 — P R O J E C T
 
 Inception is a project to deploy a **full web stack** using Docker containers:
 
@@ -28,7 +18,19 @@ Inception is a project to deploy a **full web stack** using Docker containers:
 
 All services are isolated in containers, with proper networking and persistence.
 
-## 03 — Getting Started
+## 0 2 — S K I L L S
+
+- Docker and Docker Compose  
+- Multi-container orchestration  
+- Nginx configuration and reverse proxy  
+- MariaDB database setup and initialization  
+- WordPress deployment and configuration  
+- Shell scripting for automation and initialization  
+- Linux networking fundamentals  
+
+
+
+## 0 3 — S E T U P
 
 ### Prerequisites
 - Linux
