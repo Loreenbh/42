@@ -1,9 +1,14 @@
-# Inception (42) – Dockerized Web Stack 
+<div align="center">
 
-Implementation of a multi-container web server stack as part of the 42 curriculum.  
-The project focuses on **Docker, container orchestration, networking, and deployment of web services**.
+<img src="./images/inception-planche.png" width="100%" />
 
-## Skills Demonstrated
+<br><br>
+
+42 Paris · Inception
+
+</div>
+
+## 01 — Skills Demonstrated
 
 - Docker and Docker Compose  
 - Multi-container orchestration  
@@ -13,7 +18,7 @@ The project focuses on **Docker, container orchestration, networking, and deploy
 - Shell scripting for automation and initialization  
 - Linux networking fundamentals  
 
-## Project Overview
+## 02 — Project Overview
 
 Inception is a project to deploy a **full web stack** using Docker containers:
 
@@ -25,7 +30,7 @@ Inception is a project to deploy a **full web stack** using Docker containers:
 
 All services are isolated in containers, with proper networking and persistence.
 
-## Getting Started
+## 03 — Getting Started
 
 ### Prerequisites
 - Linux
@@ -60,4 +65,7 @@ make logs
 # Stop and clean containers
 make down
 ```
-Access WordPress in browser at `http://<your-host>:80`
+Access WordPress in browser at 
+```text 
+http://<your-host>:80`
+```
