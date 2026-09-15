@@ -40,10 +40,10 @@ Each write-up contains:
 - Screenshots / proofs of successful exploitation
 - Remediation suggestions
 
-## Resources / Proofs
+## 04 — Resources / Proofs
 - Screenshots and outputs for each vulnerability are stored in the `images/` folder.
 - Scripts for payload generation, decoding, or automation can be found in the `resources/` folder.
 
-## Source Code
+## 05 — Source Code
 This repository contains write-ups and documentation only.
 No live website, binaries, or sensitive files are included—only proofs, notes, and scripts.
